@@ -11,8 +11,6 @@ for (let i = 0; i < arr.length; i++) {
 }
 
 
-
-
 // let result = function (e) {
 //   if (e % 2 === 0) {
 //     console.log(e + " even");
